@@ -1,27 +1,27 @@
-## 🌟 Developer Persona: Luke Skywalker  
+## 👨‍💻 Developer Persona: Jordan Smith  
 
 ### 🏷️ Role  
-Front-End Developer  
+Full-Stack Developer & Software Engineer  
 
 ### 📊 Demographics  
-- **Age**: 23  
+- **Age**: 27  
 - **Gender**: Male  
-- **Location**: Tatooine   
-- **Experience Level**: Recent Computer Science Graduate & Self-Taught Coder  
+- **Location**: Seattle, WA  
+- **Experience Level**: Mid-level developer with expertise in web development and UI/UX design  
 
 ### 🎯 Goals and Motivations  
-- Build a **stellar** personal portfolio to showcase coding skills and past projects.  
-- Demonstrate problem-solving abilities, creativity, and technical acumen.  
-- Attract potential employers and mentors.  
-- Ensure the portfolio is **user-friendly, modern, and responsive** across all devices.  
+- **Build the portfolio efficiently** using modern web technologies while ensuring maintainability.  
+- **Optimize performance** for fast load times and smooth user experience.  
+- **Ensure scalability**, so the student can expand content without major redesigns.  
+- **Follow best practices** in responsive design, SEO, and accessibility.  
+- **Minimize unnecessary complexity** while delivering a high-quality, functional product.  
 
 ### ⚡ Challenges and Pain Points  
-- Finding the **balance** (between design and functionality).  
-- Debugging complex issues.  
-- Standing out in a galaxy full of developers.  
-- Ensuring seamless navigation and accessibility for all users.  
-- Deploying the portfolio with **galactic-level** performance optimization.  
+- **Balancing aesthetics with performance**—wants a visually appealing design but not at the cost of speed.  
+- **Choosing the right tech stack**—must decide between static site generators (e.g., Next.js) or a more traditional approach.  
+- **SEO optimization**—needs to ensure search engines properly index the portfolio.  
+- **Handling dynamic content**—figuring out the best way to implement a blog or project showcase with minimal maintenance.  
+- **Deployment and hosting considerations**—must select a cost-effective yet scalable solution.  
 
-### 📖 Scenario  
-Luke is currently **refining the user interface** of his portfolio, ensuring smooth navigation and responsiveness across devices. He is implementing **interactive project showcases** that dynamically update based on user interactions. To optimize performance, he is working on **lazy loading images and reducing JavaScript bundle size**. Additionally, Luke is fine-tuning the **call-to-action features**, making it easier for potential employers to reach out—without needing to send a hologram.  
-
+### 📖 Current Interaction with the Software  
+Jordan is in the **development phase**, working on integrating a lightweight but powerful front-end framework. They have implemented a **responsive layout**, ensuring the portfolio is optimized for desktop and mobile users. Currently, Jordan is fine-tuning the **Projects** section, making sure it dynamically pulls content for easy updates. They are also setting up a **contact form with email integration** while exploring **SEO enhancements** to improve search visibility.  
