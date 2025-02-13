@@ -1,28 +1,27 @@
-## 🧙 User Persona: Master Yoda  
+## 👤 User Persona: Garrett Tobin
 
 ### 🏷️ Role  
-Wise Mentor & Knowledge Seeker  
+Undergraduate Computer Science Student & Aspiring Software Developer  
 
 ### 📊 Demographics  
-- **Age**: 900+ years  
+- **Age**: 21  
 - **Gender**: Male  
-- **Location**: Dagobah  
-- **Experience Level**: Expert in the Force, New to Modern Tech  
+- **Location**: Macon, GA
+- **Experience Level**: Undergraduate student with internship experience in web development  
 
 ### 🎯 Goals and Motivations  
-- Seek out **young, talented developers** with great potential.  
-- Ensure the portfolio demonstrates **wisdom, problem-solving, and creativity**.  
-- Validate that the developer has the **patience and discipline** to grow.  
-- Find a structured, **well-organized**, and **thoughtful** website experience.  
+- Build a **personal brand** with an online portfolio that highlights technical skills and projects.  
+- Impress **potential employers and recruiters** by showcasing real-world experience.  
+- Organize **projects, skills, and resume** in an accessible and professional manner.  
+- **Share knowledge** through a blog section with tutorials and insights into software development.  
+- Gain confidence in **web development, UI/UX design, and online networking**.  
 
 ### ⚡ Challenges and Pain Points  
-- Prefers **clarity and simplicity** over flashy, unnecessary animations.  
-- Finds overly complex navigation **distracting and inefficient**.  
-- Needs a way to **deeply understand the developer’s mindset** beyond just technical skills.  
-- Requires **accessibility-friendly** design—small fonts, he struggles with!  
+- Needs a **clean and modern UI** that is easy to navigate.  
+- Lacks experience in **design principles** and wants guidance on best practices.  
+- Wants the website to be **responsive and accessible** across all devices.  
+- **SEO optimization** is a challenge—needs visibility to attract employers.  
+- Unsure about the best **hosting and deployment options**.  
 
 ### 📖 Current Interaction with the Software  
-Master Yoda is **reviewing the portfolio** of a young developer, sensing their potential through 
-the structure and clarity of their work. He explores the **About Me** section, looking for signs of 
-**determination and learning**. He carefully studies the **Projects** section, evaluating not just 
-technical execution but also **logical problem-solving and creativity**.  
+Garrett is actively developing their portfolio website, working on structuring the **Projects** section to effectively showcase past work. They are refining the **About Me** page, ensuring their resume and career goals are well-represented. Currently, they are experimenting with **interactive elements** for the **Skills** section and setting up a **contact form** that integrates directly with their email. Garrett is also considering adding a **blog** but is evaluating whether they can commit to writing consistently.  
