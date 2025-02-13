@@ -1,7 +1,7 @@
 ## 👤 User Persona: Garrett Tobin
 
 ### 🏷️ Role  
-Undergraduate Computer Science Student & Aspiring Software Developer  
+Owner 
 
 ### 📊 Demographics  
 - **Age**: 21  
