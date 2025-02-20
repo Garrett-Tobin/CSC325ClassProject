@@ -13,8 +13,8 @@ and use cases relevant to the project. Developers can reference these personas t
 
 ### Usage
 Software developers and other project stakeholders can refer to these personas throughout the development process. Here are a few ways to utilize the personas:
-- `Feature Design:` Aligning feature design with the perosnas' goals and needs.
+- `Feature Design:` Aligning feature design with the personas' goals and needs.
 - `user testing: ` Creating test scenarios based on the personas' behaviors and pain points.
-- `Prioritization:` Prioritizing development tasks that address the most critical needs and chalenges of the personas.
+- `Prioritization:` Prioritizing development tasks that address the most critical needs and challenges of the personas.
 
 By incorporating user personas into our workflow, we aim to build a project that truly resonates with out users and delivers exceptional value.
