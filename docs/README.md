@@ -1,6 +1,6 @@
 # 💻 Personal Portfolio Website  
 
-## 🚀 Overview 
+## 🚀 Overview
 
 This project is a **personal website portfolio** designed to showcase the skills, projects, and experiences of an **undergraduate computer science student**. The portfolio serves as a **professional online presence**, highlighting technical expertise, problem-solving abilities, and creativity.  
 
@@ -22,8 +22,8 @@ By incorporating a **visually appealing** and **user-friendly interface**, this 
 
 ## 📖 Usage  
 
-Once the portfolio is set up and running, it can be used to: 
- 
+Once the portfolio is set up and running, it can be used to:
+
 - **Showcase your skills and projects** to potential employers and collaborators.  
 - **Network with professionals** by sharing your portfolio link.  
 - **Improve personal branding** with an interactive and engaging website.  
@@ -49,19 +49,23 @@ Feel free to suggest enhancements, fix bugs, or add new features!
 
 ## 📬 Contact
 
-- 📧 **Email**: gtobin779@gmail.com
+- 📧 **Email**: [gtobin779@gmail.com](gtobin779@gmail.com)
 - 🔗 **LinkedIn**: [Your Profile](https://www.linkedin.com/in/yourprofile/)  
 - 🐙 **GitHub**: [Your GitHub](https://github.com/yourusername)  
 
 ## 🚀 Getting Started  
 
-Follow these steps to set up and run the project locally.  
+Follow these steps to set up and run the project locally:
+
 ```bash
+
 git clone https://github.com/yourusername/your-portfolio.git
 cd your-portfolio
+
 ```
+
 ### 🔧 Prerequisites  
 
-Ensure you have the following installed before proceeding:   
-- [Git](https://git-scm.com/)  
+Ensure you have the following installed before proceeding:
 
+- [Git](https://git-scm.com/)  
